@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/shaurya/Documents/Unreal Projects/hard-work/hardwork/Source/hardwork/hardwork.Build.cs",
+		"/Users/shaurya/Documents/Unreal Projects/hard-work/hardwork/Source/hardwork.Target.cs",
+		"/Users/shaurya/Documents/Unreal Projects/hard-work/hardwork/Source/hardworkEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

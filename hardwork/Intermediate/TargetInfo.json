@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "hardwork",
+			"Path": "../Source/hardwork.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "hardworkEditor",
+			"Path": "../Source/hardworkEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
